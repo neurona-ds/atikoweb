@@ -20,7 +20,7 @@
 
 <!-- Begin Body -->
 <body <?php body_class(); ?>>
-<div>SEXOs</div>
+<div>SEXOssss</div>
 <?php wpex_outer_wrap_before(); ?>
 
 <div id="outer-wrap" class="clr">
